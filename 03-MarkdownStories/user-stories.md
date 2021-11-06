@@ -12,6 +12,6 @@ This is a simple example of how to get the link for your Github profile, in orde
 1. Copy the url at the top of your profile page.
 2. Paste the url where you want to share it.
 ---
-![resturant](https://upload.wikimedia.org/wikipedia/commons/a/a6/Oursons_g%C3%A9latine_march%C3%A9_Rouffignac.jpg)
+![gummy bears](https://upload.wikimedia.org/wikipedia/commons/a/a6/Oursons_g%C3%A9latine_march%C3%A9_Rouffignac.jpg)
 
-
+![resturant](resturant.jpg)
